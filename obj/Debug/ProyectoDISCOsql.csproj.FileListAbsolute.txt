@@ -1,0 +1,10 @@
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\obj\Debug\ProyectoDISCOsql.csproj.AssemblyReference.cache
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\obj\Debug\ProyectoDISCOsql.Form1.resources
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\obj\Debug\ProyectoDISCOsql.Properties.Resources.resources
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\obj\Debug\ProyectoDISCOsql.csproj.GenerateResource.cache
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\obj\Debug\ProyectoDISCOsql.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\bin\Debug\ProyectoDISCOsql.exe.config
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\bin\Debug\ProyectoDISCOsql.exe
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\bin\Debug\ProyectoDISCOsql.pdb
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\obj\Debug\ProyectoDISCOsql.exe
+C:\Users\Axel\source\repos\ProyectoDISCOsql\ProyectoDISCOsql\obj\Debug\ProyectoDISCOsql.pdb
